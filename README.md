@@ -1,3 +1,4 @@
+# Wytze Dijktra Unit 5 To Do List
 Deze app is een lijst waarin je taken kan toevoegen die je nog moet voldoen.
 Er kan een taak worden toegevoegd en vervolgens kan er een titel, deadline, notities en vinkje of je het hebt gedaan aan worden gegeven.
 De taak kan worden opgeslagen zodat de volgende keer wanneer de app wordt geopend je de taak kan zien
