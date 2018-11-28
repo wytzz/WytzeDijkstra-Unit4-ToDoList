@@ -6,5 +6,5 @@ Taken kunnen ook verwijderd of gewijzigd worden.
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit5-ToDoList/blob/master/doc/Schermafbeelding%202018-11-28%20om%2012.39.35.png)
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit5-ToDoList/blob/master/doc/Schermafbeelding%202018-11-28%20om%2012.39.46.png)
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit5-ToDoList/blob/master/doc/Schermafbeelding%202018-11-28%20om%2012.41.57.png)
-![alt text](https://github.com/wytzz/WytzeDijkstra-Unit5-ToDoList/blob/master/doc/Schermafbeelding%202018-11-28%20om%2012.41.59.png)
+
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit5-ToDoList/blob/master/doc/Schermafbeelding%202018-11-28%20om%2012.42.10.png)
